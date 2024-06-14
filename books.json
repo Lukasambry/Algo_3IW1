@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "name": "The Lost Kingdom",
+        "description": "A thrilling adventure through a forgotten realm where magic and danger lurk around every corner.",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "The Silent Forest",
+        "description": "An eerie tale of a young girl's journey to uncover the secrets of a haunted forest.",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "name": "Echoes of Eternity",
+        "description": "A sweeping epic that explores the timeless conflict between love and duty.",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "name": "Shadow of the Wolf",
+        "description": "A gripping novel about a lone wolf and its connection to a mysterious murder in a small town.",
+        "inStock": false
+    },
+    {
+        "id": 5,
+        "name": "Celestial Dreams",
+        "description": "A science fiction saga that takes readers on a journey through space and time.",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "name": "The Hidden Truth",
+        "description": "A detective novel where a seasoned investigator uncovers a web of lies and deceit.",
+        "inStock": true
+    },
+    {
+        "id": 7,
+        "name": "Whispers in the Wind",
+        "description": "A romantic drama set against the backdrop of a coastal town battered by storms.",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "name": "The Enchanted Grove",
+        "description": "A fantasy novel about a magical forest that holds the key to an ancient prophecy.",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "name": "Guardian of the Flame",
+        "description": "An epic tale of a warrior destined to protect a sacred flame that can save the world.",
+        "inStock": false
+    },
+    {
+        "id": 10,
+        "name": "Mists of Avalon",
+        "description": "A reimagining of the Arthurian legends told from the perspective of the women of Avalon.",
+        "inStock": true
+    },
+    {
+        "id": 11,
+        "name": "The Alchemist's Secret",
+        "description": "A historical mystery centered around an ancient manuscript and the quest to unlock its secrets.",
+        "inStock": true
+    },
+    {
+        "id": 12,
+        "name": "Beneath the Waves",
+        "description": "An underwater adventure that reveals the mysteries hidden in the ocean's depths.",
+        "inStock": false
+    },
+    {
+        "id": 13,
+        "name": "City of Gold",
+        "description": "A thrilling quest for a mythical city filled with unimaginable treasures.",
+        "inStock": true
+    },
+    {
+        "id": 14,
+        "name": "The Timekeeper's Daughter",
+        "description": "A time-traveling adventure where a young girl must save her father from the past.",
+        "inStock": false
+    },
+    {
+        "id": 15,
+        "name": "The Last Oracle",
+        "description": "A gripping tale of prophecy and power set in a world where oracles hold the future in their hands.",
+        "inStock": true
+    },
+    {
+        "id": 16,
+        "name": "Wings of the Phoenix",
+        "description": "A fantasy novel about a hero's journey to reclaim a lost kingdom with the help of a mythical phoenix.",
+        "inStock": true
+    },
+    {
+        "id": 17,
+        "name": "Echoes of the Past",
+        "description": "A historical drama that follows the intertwined lives of several families through generations.",
+        "inStock": false
+    },
+    {
+        "id": 18,
+        "name": "The Crystal Caves",
+        "description": "A fantasy adventure set in a world where magical crystals hold the power to change fate.",
+        "inStock": true
+    },
+    {
+        "id": 19,
+        "name": "Starlight Symphony",
+        "description": "A heartwarming story of a musician's quest to create the perfect symphony under the stars.",
+        "inStock": false
+    },
+    {
+        "id": 20,
+        "name": "The Iron Throne",
+        "description": "A gripping political thriller set in a world of medieval intrigue and power struggles.",
+        "inStock": true
+    },
+    {
+        "id": 21,
+        "name": "The Painter's Muse",
+        "description": "A romantic novel about an artist's search for inspiration and the love that changes everything.",
+        "inStock": true
+    },
+    {
+        "id": 22,
+        "name": "The Dragon's Lair",
+        "description": "A fantasy epic where a young hero must face a fearsome dragon to save their village.",
+        "inStock": false
+    },
+    {
+        "id": 23,
+        "name": "Seas of Destiny",
+        "description": "A maritime adventure that follows a crew of explorers seeking new worlds and untold riches.",
+        "inStock": true
+    },
+    {
+        "id": 24,
+        "name": "Whispers of the Ancients",
+        "description": "A mystical journey where a scholar deciphers ancient whispers to uncover forgotten truths.",
+        "inStock": true
+    },
+    {
+        "id": 25,
+        "name": "The Midnight Garden",
+        "description": "A dark fantasy about a hidden garden that blooms only under the light of the moon.",
+        "inStock": false
+    },
+    {
+        "id": 26,
+        "name": "The Starborn Legacy",
+        "description": "A space opera that follows a lineage of heroes destined to protect the galaxy.",
+        "inStock": true
+    },
+    {
+        "id": 27,
+        "name": "The Phantom's Curse",
+        "description": "A chilling tale of a cursed theater and the phantom that haunts its halls.",
+        "inStock": false
+    },
+    {
+        "id": 28,
+        "name": "The Forgotten Empress",
+        "description": "A historical fiction novel about an empress who was erased from the history books.",
+        "inStock": true
+    },
+    {
+        "id": 29,
+        "name": "The Secret of Blackwood Manor",
+        "description": "A gothic mystery revolving around the dark secrets hidden within an old manor.",
+        "inStock": true
+    },
+    {
+        "id": 30,
+        "name": "The Eternal Flame",
+        "description": "A fantasy adventure about a quest to find an eternal flame that can save the world from darkness.",
+        "inStock": false
+    },
+    {
+        "id": 31,
+        "name": "p",
+        "description": "p",
+        "inStock": true
+    }
+]
